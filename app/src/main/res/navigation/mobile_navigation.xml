@@ -13,13 +13,13 @@
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="br.ucsal.semocapp.ui.gallery.GalleryFragment"
+        android:name="br.ucsal.semocapp.ui.project.ProjectFragment"
         android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        tools:layout="@layout/fragment_project" />
 
     <fragment
         android:id="@+id/nav_slideshow"
-        android:name="br.ucsal.semocapp.ui.slideshow.SlideshowFragment"
+        android:name="br.ucsal.semocapp.ui.thematic_axis.ThematicAxisFragment"
         android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_thematic_axis" />
 </navigation>
