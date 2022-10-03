@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Semoc</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Apresentação</string>
+    <string name="menu_project">Projeto</string>
+    <string name="menu_thematic_axis">Eixos Temáticos</string>
+    <string name="menu_schedule">Programação</string>
+    <string name="menu_enroll">Inscrições</string>
+    <string name="menu_timeline">Cronograma</string>
+    <string name="menu_contact">Contatos</string>
+    <string name="menu_certificates">Certificados</string>
+</resources>
